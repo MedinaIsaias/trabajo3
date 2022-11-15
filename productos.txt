@@ -1,0 +1,20 @@
+[
+  {
+    "name": "pan",
+    "price": "1000",
+    "thumbnail": "www.pan.com",
+    "id": 1
+  },
+  {
+    "name": "huevo",
+    "price": "15",
+    "thumbnail": "www.huevo.com",
+    "id": 2
+  },
+  {
+    "name": "harina",
+    "price": "50",
+    "thumbnail": "www.harina.com",
+    "id": 3
+  }
+]
